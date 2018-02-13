@@ -19,4 +19,223 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Solitaire.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Sprites\backgroundmask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\backgroundsprite.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b1fh.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b1pb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b1pl.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b1pr.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b1pt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b2fh.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b2fv.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b2pb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b2pl.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b2pr.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\b2pt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\back.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\blank.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\BlueBack.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\c13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\Card_mask.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\d13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\h13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s09.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sprites\card-BMPs\s13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
